@@ -1,4 +1,4 @@
-# Hi there 👋 <br>
+# Hi there! 👋 <br>
 
 📫 I’m currently studying ... <br>
 
