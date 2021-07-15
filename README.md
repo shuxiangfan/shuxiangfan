@@ -8,4 +8,4 @@ I would love to meet more friends. <br>
 Please contact me on weekends because I'm free. <br>
 Friendly in English/Chinese! <br>
 
-[![Sharako's github stats](https://github-readme-stats.vercel.app/api?username=Sharakovia&show_icons=true)](https://github.com/sharakovia)
+[![Sharako's github stats](https://github-readme-stats.vercel.app/api?username=shuxiangfan&show_icons=true)](https://github.com/sharakovia)
