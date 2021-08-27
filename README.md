@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![Android](https://img.shields.io/badge/MobEnv-Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 
 ### 📱 Devices
-[![Pixel 3](https://img.shields.io/badge/Device-Pixel%202%20XL-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
+[![Pixel 3](https://img.shields.io/badge/Device-Pixel3-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
