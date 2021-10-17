@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuxiangfan&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxiangfan&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxiangfan&layout=compact" />
