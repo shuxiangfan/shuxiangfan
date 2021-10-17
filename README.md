@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shuxiangfan&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+[![ShuxiangFan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuxiangfan)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋 I'm ShuxiangFan
 - 🌱 I’m learning C++/Java
