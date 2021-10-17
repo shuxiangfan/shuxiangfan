@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shuxiangfan&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxiangfan&layout=compact" />
 
 ### Hi there 👋 I'm ShuxiangFan
 - 🌱 I’m learning C++/Java
@@ -29,3 +26,6 @@ Here are some ideas to get you started:
 [![Pixel 3](https://img.shields.io/badge/Device-Pixel3-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 [![Pixel XL](https://img.shields.io/badge/Device-PixelXL-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuxiangfan&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxiangfan&layout=compact" />
