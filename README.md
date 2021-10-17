@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shuxiangfan&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 ### Hi there 👋 I'm ReallyShow(Imposter)
-- 🌱 I’m learning C++
+- 🌱 I’m learning C++/Java
 - 📫 Email: linclonfan@outlook.com
 
 ### 💻 Environment
@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 ### 📱 Devices
 [![Pixel 3](https://img.shields.io/badge/Device-Pixel3-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
+[![Pixel XL](https://img.shields.io/badge/Device-PixelXL-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
+
