@@ -14,18 +14,20 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 I'm ShuxiangFan
-- 🌱 I’m learning C++/Java
+- 🌱 I’m learning.
 - 📫 Email: linclonfan@outlook.com
 
 ### 💻 Environment
-[![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
-[![Arch Linux](https://img.shields.io/badge/Env-Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
-[![Android](https://img.shields.io/badge/MobEnv-Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
+[![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
+<!---
+ [![Arch Linux](https://img.shields.io/badge/Env-Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
+ --->
+[![iOS](https://img.shields.io/badge/MobEnv-iOS-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/ios)
 
 ### 📱 Devices
-[![Pixel 3](https://img.shields.io/badge/Device-Pixel3-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
-[![Pixel XL](https://img.shields.io/badge/Device-PixelXL-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
+[![iPhone 12 mini](https://img.shields.io/badge/Device-iPhone%2012%20mini-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/en-us/111877)
 
+<!-----
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuxiangfan&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuxiangfan&layout=compact" />
+-->
