@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 📫 Email: linclonfan@outlook.com
 
 ### 💻 Environment
-[![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
 <!---
+ [![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows)
  [![Arch Linux](https://img.shields.io/badge/Env-Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
  --->
 [![iOS](https://img.shields.io/badge/MobEnv-iOS-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/ios)
