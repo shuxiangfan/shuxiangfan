@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ### 📱 Devices
 [![iPhone 12 mini](https://img.shields.io/badge/iPhone%2012%20mini-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/en-us/111877)
 [![Sony XZ Premium](https://img.shields.io/badge/Sony_XZ_Premium-000000?style=flat-square&logo=sony&logoColor=FFFFFF&labelColor=000000)](https://www.gsmarena.com/sony_xperia_xz_premium-8593.php)
+[![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi_Pad_5-000000?style=flat-square&logo=xiaomi&logoColor=FFFFFF&logoSize=auto&labelColor=FF6900&color=FF6900)](https://www.mi.com/xiaomipad5)
 [![Google Pixel XL](https://camo.githubusercontent.com/de82c53e57efeee9602bd314a9417d2c135d21a36a79678b34ecb73454d86a02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230506978656c253230584c2d3432383566343f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c65266c6f676f436f6c6f723d666666666666)](https://www.gsmarena.com/google_pixel_xl-8345.php)
 
 <!-----
